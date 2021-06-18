@@ -1,5 +1,6 @@
 # MIPS Program to find the minimum (or maximum) element of an array
 # author: Keshan M.W.M.
+#
 #------------------------------------------------- 
 #Data Declarations
 
